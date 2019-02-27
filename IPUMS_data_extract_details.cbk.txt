@@ -1,0 +1,750 @@
+Description: historical industry-occupation 
+Samples selected:
+      1850 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1860 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1870 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1880 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1900 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1910 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1920 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1930 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1940 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1950 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1960 1%
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1970 Form 1 State
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      1980 5%
+            Note: 
+            Density of the full data file:  5.0%
+            Density of your extract: 5.0%
+
+      1990 5%
+            Note: 
+            Density of the full data file:  5.0%
+            Density of your extract: 5.0%
+
+      2000 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  0.13%
+            Density of your extract: 0.13%
+
+      2001 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  0.43%
+            Density of your extract: 0.43%
+
+      2002 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  0.38%
+            Density of your extract: 0.38%
+
+      2003 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  0.42%
+            Density of your extract: 0.42%
+
+      2004 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  0.42%
+            Density of your extract: 0.42%
+
+      2005 ACS
+            Note: Does not include persons in group quarters.
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2006 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2007 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2008 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2009 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2010 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2011 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2012 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2013 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2014 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2015 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2016 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+      2017 ACS
+            Note: 
+            Density of the full data file:  1.0%
+            Density of your extract: 1.0%
+
+File Type:                    rectangular
+Case Selection:               No
+  Variable               Columns        Len    1850    1860    1870    1880    1900    1910    1920    1930    1940    1950    1960    1970    1980    1990    2000    2001    2002    2003    2004    2005    2006    2007    2008    2009    2010    2011    2012    2013    2014    2015    2016    2017   
+  YEAR               H   1-4            4      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  DATANUM            H   5-6            2      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  HHWT               H   7-16          10      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  STATEICP           H  17-18           2      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  PERNUM             P  19-22           4      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  PERWT              P  23-32          10      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  OCC1950            P  33-35           3      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+  IND1950            P  36-38           3      X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X 
+
+Variable Availability Key:
+All Years X - available in this sample
+All Years . - not available in this sample
+
+
+ YEAR		Census year
+1850		1850
+1860		1860
+1870		1870
+1880		1880
+1900		1900
+1910		1910
+1920		1920
+1930		1930
+1940		1940
+1950		1950
+1960		1960
+1970		1970
+1980		1980
+1990		1990
+2000		2000
+2001		2001
+2002		2002
+2003		2003
+2004		2004
+2005		2005
+2006		2006
+2007		2007
+2008		2008
+2009		2009
+2010		2010
+2011		2011
+2012		2012
+2013		2013
+2014		2014
+2015		2015
+2016		2016
+
+ STATEICP		State (ICPSR code)
+01		Connecticut
+02		Maine
+03		Massachusetts
+04		New Hampshire
+05		Rhode Island
+06		Vermont
+11		Delaware
+12		New Jersey
+13		New York
+14		Pennsylvania
+21		Illinois
+22		Indiana
+23		Michigan
+24		Ohio
+25		Wisconsin
+31		Iowa
+32		Kansas
+33		Minnesota
+34		Missouri
+35		Nebraska
+36		North Dakota
+37		South Dakota
+40		Virginia
+41		Alabama
+42		Arkansas
+43		Florida
+44		Georgia
+45		Louisiana
+46		Mississippi
+47		North Carolina
+48		South Carolina
+49		Texas
+51		Kentucky
+52		Maryland
+53		Oklahoma
+54		Tennessee
+56		West Virginia
+61		Arizona
+62		Colorado
+63		Idaho
+64		Montana
+65		Nevada
+66		New Mexico
+67		Utah
+68		Wyoming
+71		California
+72		Oregon
+73		Washington
+81		Alaska
+82		Hawaii
+83		Puerto Rico
+96		State groupings (1980 Urban/rural sample)
+97		Military/Mil. Reservations
+98		District of Columbia
+99		State not identified
+
+ OCC1950		Occupation, 1950 basis
+		Professional, Technical:
+000		Accountants and auditors
+001		Actors and actresses
+002		Airplane pilots and navigators
+003		Architects
+004		Artists and art teachers
+005		Athletes
+006		Authors
+007		Chemists
+008		Chiropractors
+009		Clergymen
+010		College presidents and deans
+		Professors and instructors:
+012		Agricultural sciences-Professors and instructors
+013		Biological sciences-Professors and instructors
+014		Chemistry-Professors and instructors
+015		Economics-Professors and instructors
+016		Engineering-Professors and instructors
+017		Geology and geophysics-Professors and instructors
+018		Mathematics-Professors and instructors
+019		Medical Sciences-Professors and instructors
+023		Physics-Professors and instructors
+024		Psychology-Professors and instructors
+025		Statistics-Professors and instructors
+026		Natural science (nec)-Professors and instructors
+027		Social sciences (nec)-Professors and instructors
+028		Non-scientific subjects-Professors and instructors
+029		Subject not specified-Professors and instructors
+031		Dancers and dancing teachers
+032		Dentists
+033		Designers
+034		Dietitians and nutritionists
+035		Draftsmen
+036		Editors and reporters
+041		Aeronautical-Engineers
+042		Chemical-Engineers
+043		Civil-Engineers
+044		Electrical-Engineers
+045		Industrial-Engineers
+046		Mechanical-Engineers
+047		Metallurgical, metallurgists-Engineers
+048		Mining-Engineers
+049		Engineers (nec)
+051		Entertainers (nec)
+052		Farm and home management advisors
+053		Foresters and conservationists
+054		Funeral directors and embalmers
+055		Lawyers and judges
+056		Librarians
+057		Musicians and music teachers
+058		Nurses, professional
+059		Nurses, student professional
+061		Agricultural scientists
+062		Biological scientists
+063		Geologists and geophysicists
+067		Mathematicians
+068		Physicists
+069		Misc. natural scientists
+070		Optometrists
+071		Osteopaths
+072		Personnel and labor relations workers
+073		Pharmacists
+074		Photographers
+075		Physicians and surgeons
+076		Radio operators
+077		Recreation and group workers
+078		Religious workers
+079		Social and welfare workers, except group
+081		Economists
+082		Psychologists
+083		Statisticians and actuaries
+084		Misc social scientists
+091		Sports instructors and officials
+092		Surveyors
+093		Teachers (n.e.c.)
+094		Medical and dental-technicians
+095		Testing-technicians
+096		Technicians (nec)
+097		Therapists and healers (nec)
+098		Veterinarians
+099		Professional, technical and kindred workers (nec)
+		Farmers:
+100		Farmers (owners and tenants)
+123		Farm managers
+		Managers, Officials, and Proprietors:
+200		Buyers and dept heads, store
+201		Buyers and shippers, farm products
+203		Conductors, railroad
+204		Credit men
+205		Floormen and floor managers, store
+210		Inspectors, public administration
+230		Managers and superintendants, building
+240		Officers, pilots, pursers and engineers, ship
+250		Officials and administratators (nec), public administration
+260		Officials, lodge, society, union, etc.
+270		Postmasters
+280		Purchasing agents and buyers (nec)
+290		Managers, officials, and proprietors (nec)
+		Clerical and Kindred
+300		Agents (nec)
+301		Attendants and assistants, library
+302		Attendants, physicians and dentists office
+304		Baggagemen, transportation
+305		Bank tellers
+310		Bookkeepers
+320		Cashiers
+321		Collectors, bill and account
+322		Dispatchers and starters, vehicle
+325		Express messengers and railway mail clerks
+335		Mail carriers
+340		Messengers and office boys
+341		Office machine operators
+342		Shipping and receiving clerks
+350		Stenographers, typists, and secretaries
+360		Telegraph messengers
+365		Telegraph operators
+370		Telephone operators
+380		Ticket, station, and express agents
+390		Clerical and kindred workers (n.e.c.)
+		Sales workers:
+400		Advertising agents and salesmen
+410		Auctioneers
+420		Demonstrators
+430		Hucksters and peddlers
+450		Insurance agents and brokers
+460		Newsboys
+470		Real estate agents and brokers
+480		Stock and bond salesmen
+490		Salesmen and sales clerks (nec)
+		Craftsmen:
+500		Bakers
+501		Blacksmiths
+502		Bookbinders
+503		Boilermakers
+504		Brickmasons,stonemasons, and tile setters
+505		Cabinetmakers
+510		Carpenters
+511		Cement and concrete finishers
+512		Compositors and typesetters
+513		Cranemen,derrickmen, and hoistmen
+514		Decorators and window dressers
+515		Electricians
+520		Electrotypers and stereotypers
+521		Engravers, except photoengravers
+522		Excavating, grading, and road machinery operators
+523		Foremen (nec)
+524		Forgemen and hammermen
+525		Furriers
+530		Glaziers
+531		Heat treaters, annealers, temperers
+532		Inspectors, scalers, and graders log and lumber
+533		Inspectors (nec)
+534		Jewelers, watchmakers, goldsmiths, and silversmiths
+535		Job setters, metal
+540		Linemen and servicemen, telegraph, telephone, and power
+541		Locomotive engineers
+542		Locomotive firemen
+543		Loom fixers
+544		Machinists
+545		Airplane-mechanics and repairmen
+550		Automobile-mechanics and repairmen
+551		Office machine-mechanics and repairmen
+552		Radio and television-mechanics and repairmen
+553		Railroad and car shop-mechanics and repairmen
+554		Mechanics and repairmen (nec)
+555		Millers, grain, flour, feed, etc
+560		Millwrights
+561		Molders, metal
+562		Motion picture projectionists
+563		Opticians and lens grinders and polishers
+564		Painters, construction and maintenance
+565		Paperhangers
+570		Pattern and model makers, except paper
+571		Photoengravers and lithographers
+572		Piano and organ tuners and repairmen
+573		Plasterers
+574		Plumbers and pipe fitters
+575		Pressmen and plate printers, printing
+580		Rollers and roll hands, metal
+581		Roofers and slaters
+582		Shoemakers and repairers, except factory
+583		Stationary engineers
+584		Stone cutters and stone carvers
+585		Structural metal workers
+590		Tailors and tailoresses
+591		Tinsmiths, coppersmiths, and sheet metal workers
+592		Tool makers, and die makers and setters
+593		Upholsterers
+594		Craftsmen and kindred workers (nec)
+595		Members of the armed services
+		Operatives:
+600		Auto mechanics apprentice
+601		Bricklayers and masons apprentice
+602		Carpenters apprentice
+603		Electricians apprentice
+604		Machinists and toolmakers apprentice
+605		Mechanics, except auto apprentice
+610		Plumbers and pipe fitters apprentice
+611		Apprentices, building trades (nec)
+612		Apprentices, metalworking trades (nec)
+613		Apprentices, printing  trades
+614		Apprentices, other specified trades
+615		Apprentices, trade not specified
+620		Asbestos and insulation workers
+621		Attendants, auto service and parking
+622		Blasters and powdermen
+623		Boatmen, canalmen, and lock keepers
+624		Brakemen, railroad
+625		Bus drivers
+630		Chainmen, rodmen, and axmen, surveying
+631		Conductors, bus and street railway
+632		Deliverymen and routemen
+633		Dressmakers and seamstresses, except factory
+634		Dyers
+635		Filers, grinders, and polishers, metal
+640		Fruit, nut, and vegetable graders, and packers, except facto
+641		Furnacemen, smeltermen and pourers
+642		Heaters, metal
+643		Laundry and dry cleaning Operatives
+644		Meat cutters, except slaughter and packing house
+645		Milliners
+650		Mine operatives and laborers
+660		Motormen, mine, factory, logging camp, etc
+661		Motormen, street, subway, and elevated railway
+662		Oilers and greaser, except auto
+670		Painters, except construction or maintenance
+671		Photographic process workers
+672		Power station operators
+673		Sailors and deck hands
+674		Sawyers
+675		Spinners, textile
+680		Stationary firemen
+681		Switchmen, railroad
+682		Taxicab drivers and chauffeurs
+683		Truck and tractor drivers
+684		Weavers, textile
+685		Welders and flame cutters
+690		Operative and kindred workers (nec)
+		Service Workers (private household):
+700		Housekeepers, private household
+710		Laundresses, private household
+720		Private household workers (nec)
+		Service Workers (not household):
+730		Attendants, hospital and other institution
+731		Attendants, professional and personal service (nec)
+732		Attendants, recreation and amusement
+740		Barbers, beauticians, and manicurists
+750		Bartenders
+751		Bootblacks
+752		Boarding and lodging house keepers
+753		Charwomen and cleaners
+754		Cooks, except private household
+760		Counter and fountain workers
+761		Elevator operators
+762		Firemen, fire protection
+763		Guards, watchmen, and doorkeepers
+764		Housekeepers and stewards, except private household
+770		Janitors and sextons
+771		Marshals and constables
+772		Midwives
+773		Policemen and detectives
+780		Porters
+781		Practical nurses
+782		Sheriffs and bailiffs
+783		Ushers, recreation and amusement
+784		Waiters and waitresses
+785		Watchmen (crossing) and bridge tenders
+790		Service workers, except private household (nec)
+		Farm Laborers:
+810		Farm foremen
+820		Farm laborers, wage workers
+830		Farm laborers, unpaid family workers
+840		Farm service laborers, self-employed
+		Laborers:
+910		Fishermen and oystermen
+920		Garage laborers and car washers and greasers
+930		Gardeners, except farm and groundskeepers
+940		Longshoremen and stevedores
+950		Lumbermen, raftsmen, and woodchoppers
+960		Teamsters
+970		Laborers (nec)
+979		Not yet classified
+		Non-occupational response:
+980		Keeps house/housekeeping at home/housewife
+981		Imputed keeping house (1850-1900)
+982		Helping at home/helps parents/housework
+983		At school/student
+984		Retired
+985		Unemployed/without occupation
+986		Invalid/disabled w/ no occupation reported
+987		Inmate
+990		New Worker
+991		Gentleman/lady/at leisure
+995		Other non-occupation
+997		Occupation missing/unknown
+999		N/A (blank)
+
+ IND1950		Industry, 1950 basis
+000		N/A or none reported
+		Agriculture, Forestry, and Fishing:
+105		Agriculture
+116		Forestry
+126		Fisheries
+		Mining:
+206		Metal mining
+216		Coal mining
+226		Crude petroleum and natural gas extraction
+236		Nonmettalic  mining and quarrying, except fuel
+239		Mining, not specified
+		Construction:
+246		Construction
+		Manufacturing:
+		Durable Goods:
+306		Logging
+307		Sawmills, planing mills, and mill work
+308		Misc wood products
+309		Furniture and fixtures
+316		Glass and glass products
+317		Cement, concrete, gypsum and plaster products
+318		Structural clay products
+319		Pottery and related prods
+326		Misc nonmetallic mineral and stone products
+336		Blast furnaces, steel works, and rolling mills
+337		Other primary iron and steel industries
+338		Primary nonferrous industries
+346		Fabricated steel products
+347		Fabricated nonferrous metal products
+348		Not specified metal industries
+356		Agricultural machinery and tractors
+357		Office and store machines
+358		Misc machinery
+367		Electrical machinery, equipment and supplies
+376		Motor vehicles and motor vehicle equipment
+377		Aircraft and parts
+378		Ship and boat building and repairing
+379		Railroad and misc transportation equipment
+386		Professional equipment
+387		Photographic equipment and supplies
+388		Watches, clocks, and clockwork-operated devices
+399		Misc manufacturing industries
+		Nondurable Goods:
+406		Meat products
+407		Dairy products
+408		Canning and preserving fruits, vegetables, and seafoods
+409		Grain-mill products
+416		Bakery products
+417		Confectionery and related products
+418		Beverage industries
+419		Misc food preparations and kindred products
+426		Not specified food industries
+429		Tobacco manufactures
+436		Knitting mills
+437		Dyeing and finishing textiles, except knit goods
+438		Carpets, rugs, and other floor coverings
+439		Yarn, thread, and fabric
+446		Misc textile mill products
+448		Apparel and accessories
+449		Misc fabricated textile products
+456		Pulp, paper, and paper-board mills
+457		Paperboard containers and boxes
+458		Misc paper and pulp products
+459		Printing, publishing, and allied industries
+466		Synthetic fibers
+467		Drugs and medicines
+468		Paints, varnishes, and related products
+469		Misc chemicals and allied products
+476		Petroleum refining
+477		Misc petroleum and coal products
+478		Rubber products
+487		Leather: tanned, curried, and finished
+488		Footwear, except rubber
+489		Leather products, except footwear
+499		Not specified manufacturing industries
+		Transportation, Communication, and Other Utilities:
+		Transportation:
+506		Railroads and railway
+516		Street railways and bus lines
+526		Trucking service
+527		Warehousing and storage
+536		Taxicab service
+546		Water transportation
+556		Air transportation
+567		Petroleum and gasoline pipe lines
+568		Services incidental to transportation
+		Telecommunications:
+578		Telephone
+579		Telegraph
+		Utilities and Sanitary Services:
+586		Electric light and power
+587		Gas and steam supply systems
+588		Electric-gas utilities
+596		Water supply
+597		Sanitary services
+598		Other and not specified utilities
+		Wholesale and Retail Trade:
+		Wholesale Trade:
+606		Motor vehicles and equipment
+607		Drugs, chemicals, and allied products
+608		Dry goods apparel
+609		Food and related products
+616		Electrical goods, hardware, and plumbing equipment
+617		Machinery, equipment, and supplies
+618		Petroleum products
+619		Farm prods--raw materials
+626		Misc wholesale trade
+627		Not specified wholesale trade
+		Retail Trade:
+636		Food stores, except dairy
+637		Dairy prods stores and milk retailing
+646		General merchandise
+647		Five and ten cent stores
+656		Apparel and accessories stores, except shoe
+657		Shoe stores
+658		Furniture and house furnishings stores
+659		Household appliance and radio stores
+667		Motor vehicles and accessories retailing
+668		Gasoline service stations
+669		Drug stores
+679		Eating and drinking  places
+686		Hardware and farm implement stores
+687		Lumber and building material retailing
+688		Liquor stores
+689		Retail florists
+696		Jewelry stores
+697		Fuel and ice retailing
+698		Misc retail stores
+699		Not specified retail trade
+		Finance, Insurance, and Real Estate:
+716		Banking and credit
+726		Security and commodity brokerage and invest companies
+736		Insurance
+746		Real estate
+756		Real estate-insurance-law  offices
+		Business and Repair Services:
+806		Advertising
+807		Accounting, auditing, and bookkeeping services
+808		Misc business services
+816		Auto repair services and garages
+817		Misc repair services
+		Personal services:
+826		Private households
+836		Hotels and lodging places
+846		Laundering, cleaning, and dyeing
+847		Dressmaking shops
+848		Shoe repair shops
+849		Misc personal services
+		Entertainment and Recreation Services:
+856		Radio broadcasting and television
+857		Theaters and motion pictures
+858		Bowling alleys, and billiard and pool parlors
+859		Misc entertainment and recreation services
+		Professional and Related Services:
+868		Medical and other health services, except hospitals
+869		Hospitals
+879		Legal services
+888		Educational services
+896		Welfare and religious services
+897		Nonprofit membership organizs.
+898		Engineering and architectural services
+899		Misc professional and related
+		Public Administration:
+906		Postal service
+916		Federal public administration
+926		State public administration
+936		Local public administration
+946		Public Administration, level not specified
+976		Common or general laborer
+979		Not yet specified
+980		Unpaid domestic work
+982		Housework at home
+983		School response (students, etc.)
+984		Retired
+986		Sick/disabled
+987		Institution response
+		Other:
+991		Lady/Man of leisure
+995		Non-industrial response
+997		Nonclassifiable
+998		Industry not reported
+999		Blank or blank equivalent
